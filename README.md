@@ -1,5 +1,7 @@
 
 # @tiaanduplessis/eslint-config
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/eslint-config.svg)](https://greenkeeper.io/)
 [![package version](https://img.shields.io/npm/v/@tiaanduplessis/eslint-config.svg?style=flat-square)](https://npmjs.org/package/@tiaanduplessis/eslint-config)
 [![package downloads](https://img.shields.io/npm/dm/@tiaanduplessis/eslint-config.svg?style=flat-square)](https://npmjs.org/package/@tiaanduplessis/eslint-config)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
